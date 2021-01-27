@@ -1,0 +1,1 @@
+python convert_keras_to_tf.py --model_type mobilenetv2 --keras_weight best_mobilenetv2_weight.h5 --out_prefix best_mobilenetv2_weight
